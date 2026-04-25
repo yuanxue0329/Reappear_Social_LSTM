@@ -1,0 +1,2 @@
+# Reappear_Social_LSTM
+复现了Social-LSTM的代码，并使用ETH/UCY数据集作为跑通代码的测试数据集，使用nuScenes作为真实自动驾驶场景下的数据集
